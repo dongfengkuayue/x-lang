@@ -21,6 +21,13 @@ const (
 	LBRACE = "{"
 	RBRACE = "}"
 
+	BANG     = "!"
+	MINUS    = "-"
+	SLASH    = "/"
+	ASTERISK = "*"
+	LT       = "<"
+	GT       = ">"
+
 	//Keywords
 	FUNCTION = "FUNCTION"
 	LET      = "LET"
